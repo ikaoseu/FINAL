@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<listado>
+ <alumno id="1">
+    <dni>74857485F</dni>
+    <nombre>Mateo</nombre>
+    <apellido>Ros</apellido>
+    <email>mateo.ros@gmail.com</email>
+    <telefono>654987656</telefono>
+    <direccion/>
+    <fecha_nacimiento/>
+ </alumno>
+ <alumno id="2">
+    <dni>12457845L</dni>
+    <nombre>Marta</nombre>
+    <apellido>Sanz</apellido>
+    <email>m.sanz@gmail.com</email>
+    <telefono/>
+    <direccion/>
+    <fecha_nacimiento/>
+ </alumno>
+ <alumno id="3">
+    <dni>32659874X</dni>
+    <nombre>Juan</nombre>
+    <apellido>Alonso</apellido>
+    <email>juanito@gmail.com</email>
+    <telefono/>
+    <direccion/>
+    <fecha_nacimiento>1995-05-06</fecha_nacimiento>
+ </alumno>
+</listado>
+
